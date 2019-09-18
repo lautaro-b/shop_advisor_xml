@@ -1,0 +1,40 @@
+lielm
+﻿lautaro
+30179674-4
+33783538-3
+
+Liel Maruani
+Lautaro Borrovinsky
+
+We discussed the exercise with: Yarden Kialy
+
+====================
+=  README for ex5  =
+====================
+
+==================
+=  Description:  = 
+==================
+
+A program that, given items that we want to buy,
+tells us the best option for the purchase among the
+biggest supermarkets in the country.
+contains several functions with different usages 
+including loops, deep copy, lists, dictionaries, 
+files I/O, importing files, among others.
+
+=============================
+=  List of submitted files: =
+=============================
+
+ex5.py  
+README this file
+AUTHORS
+
+======================
+=  Special Comments  =
+======================
+
+As a guidance, we consulted:
+https://docs.python.org/3/howto/regex.html
+and stackoverflow.com
